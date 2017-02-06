@@ -2,7 +2,7 @@
 
 GitHubリポジトリ作成スクリプトのINI部分。
 
-[https://github.com/ytyaru/GitHub.Console.ByPython.201702041951]で使用するINIファイル部分。
+[こちら](https://github.com/ytyaru/GitHub.Console.ByPython.201702041951)で使用するINIファイル部分。
 
 # 開発環境
 
