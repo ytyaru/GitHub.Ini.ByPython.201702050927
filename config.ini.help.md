@@ -11,24 +11,22 @@ GitHubで[アカウント作成](https://github.com/join)したときのユー�
 Username=user1
 ```
 
-## GitHub.Repository:Description
+## Repository:Description
 
 作成するリモートリポジトリの説明文を指定する。
 
 ```ini
-[GitHub]
-	[Repository]
-	Description=リポジトリ説明。
+[Repository]
+Description=リポジトリ説明。
 ```
 
-## GitHub.Repository:Homepage
+## Repository:Homepage
 
 作成するリモートリポジトリの関連URLを指定する。
 
 ```ini
-[GitHub]
-	[Repository]
-	Homepage=http://
+[Repository]
+Homepage=http://
 ```
 
 ## SSH:Host
